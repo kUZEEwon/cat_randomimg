@@ -9,8 +9,10 @@
 - 심플하고 깔끔한 사용자 인터페이스
 
 ## 스크린샷
+<img src = "https://github.com/kUZEEwon/cat_randomimg/assets/97424144/19803228-2852-4af3-a844-8cb991df175c" width=300 height=300>
+<img src = "https://github.com/kUZEEwon/cat_randomimg/assets/97424144/d3bb80c1-9eef-42d6-be5a-3f25af8d9185" width=300 height=300>
+<img src = "https://github.com/kUZEEwon/cat_randomimg/assets/97424144/326686db-1958-4237-b0ee-2e88299a66ba" width=300 height=300>
 
-![스크린샷](screenshot.png)
 
 ## 시작하기
 
